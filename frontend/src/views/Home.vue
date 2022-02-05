@@ -8,3 +8,9 @@ export default {
   name: 'Home',
 }
 </script>
+<style scoped>
+.home{
+  height: 1300px;
+  background-color: #333;
+}
+</style>
